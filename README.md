@@ -9,7 +9,7 @@
 
 | Ana Sayfa & Keşfet | Çalma Listesi Görünümü |
 |--------------------|------------------------|
-| ![Home](assets/home.png) | ![Playlist](assets/playlist.png) |
+| ![Home](home.png) | ![Playlist](playlist.png) |
 
 ---
 
