@@ -49,7 +49,7 @@
 
 ```bash
 # Depoyu klonlayın
-git clone https://github.com/kullaniciadi/alterfy.git
+git clone https://github.com/brt222/alterfy.git
 
 # Proje dizinine gidin
 cd alterfy
