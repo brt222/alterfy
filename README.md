@@ -84,19 +84,6 @@ Kartlara çift tıklayarak veya sağ tık menüsünden **"Play Now"** seçeneği
 
 ---
 
-# 🏗️ Proje Yapısı
-
-```plaintext
-Alterfy/
-├── main.py             # Ana uygulama ve UI mimarisi
-├── data_manager.py     # JSON tabanlı veri saklama ve playlist yönetimi
-├── i18n.py             # Dil çevirileri ve yerelleştirme
-├── assets/             # İkonlar ve görsel materyaller
-└── LICENSE.md          # Lisans detayları
-```
-
----
-
 # 📦 Kullanılan Teknolojiler
 
 - `PyQt6`
